@@ -1,4 +1,4 @@
-# 【Golang併發之始】Day 1: Concurrency還是Parallelism？別再傻傻分不清楚！
+# Day 1: Concurrency還是Parallelism？別再傻傻分不清楚！
 
 ## 前言
 
