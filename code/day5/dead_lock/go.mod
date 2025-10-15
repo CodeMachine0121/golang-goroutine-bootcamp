@@ -1,0 +1,3 @@
+module dead_lock
+
+go 1.25.1
